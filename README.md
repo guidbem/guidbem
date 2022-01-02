@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guidbem
 - 👀 I’m interested in Machine Learning, Data Science, Bussiness Analytics and Electric Power Engineering.
-- 🌱 I’m currently learning Electrical Engineering
+- 🌱 I recently completed my Bachelor's Degree in Electrical Engineering and I'm currently applying for a master's degree in Data Science and AI.
 - 💞️ I’m looking to collaborate on Machine learning and Data Science projetcs involving bussiness and electric power.
 - 📫 Reach me at guilherme.soares.debem@gmail.com
 
